@@ -1,0 +1,19 @@
+p {
+    background-color: lightcoral;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.largeTxt {
+    font-size: 24px;
+}
+
+#firstID {
+    color: blue;
+    font-size: 36px;
+}
+
+#secondID {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
